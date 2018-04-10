@@ -1,0 +1,13 @@
+.badValue {
+  color: red;
+  text-decoration: blink;
+}
+
+.goodValue {
+  color: springgreen;
+}
+
+.chartsResponsive {  
+  margin-bottom:30px;
+  height: 400px;
+}
